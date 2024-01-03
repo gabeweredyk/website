@@ -1,0 +1,58 @@
+#winning{
+    width: fit-content;
+    max-width: 50%;
+    padding: 10px;
+    margin: 5px;
+    margin-bottom: 15px;
+    border: white;
+    border-style: ridge;
+    border-width: 1px;
+}
+
+.input {
+    margin:10px;
+}
+
+.input > input, textarea {
+    margin: 10px;
+    text-align: center;
+    width: 480px;
+    padding:5px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#description {
+    height:64px;
+    width:480px;
+    padding: 5px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#nodeDescription {
+    font-weight: normal;
+    width: 50%;
+    font-size:18pt;
+    text-align:justify;
+}
+
+#error {
+    color:salmon;
+}
+
+#submit, button {
+    padding: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+}
+
+select{
+    padding:5px;
+    margin: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.forty-eight{
+    font-size: 48pt;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+}

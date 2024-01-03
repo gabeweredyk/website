@@ -1,0 +1,2 @@
+<h2>The Bezier Board</h2>
+<p>Created as a exhibition for my school's Art Expo, the Bezier Board is an expirement in artisitic collabiration on a small scale</p>

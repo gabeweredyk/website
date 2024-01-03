@@ -1,0 +1,61 @@
+#dashboard {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-content: center;
+}
+
+#dashboard > div {
+    /* float:"left"; */
+    margin: auto;
+    display: inline-block;
+    align-content: center;
+    height: 100%;
+    text-align: center;
+}
+
+#battleLog {
+    width: 20%;
+    background-color: rgba(200, 200, 255);
+    color:black;
+}
+
+#canvas {
+    width: 40%;
+    background-color: rgba(200, 200, 255);
+}
+#canvas > canvas {
+    margin-top: 5%;
+}
+
+#scoreboard {
+    width: 20%;
+    background-color: rgba(200, 200, 255);
+    color:black;
+}
+
+#timer {
+    width: 50%;
+}
+
+.number {
+    display: inline-block;
+    padding: 5px;
+    border: black;
+    border-style: ridge;
+    border-width: 1px;
+}
+
+.offense, .defense {
+    width:40%;
+}
+.result {
+    width: 64px;
+}
+
+.judgment {
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 24pt;
+}

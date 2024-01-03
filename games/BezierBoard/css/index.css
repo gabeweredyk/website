@@ -1,0 +1,35 @@
+/* @media screen and (max-width:767px) {
+  html, body {
+    overflow: hidden;
+  }
+  } */
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+  
+body {
+    /*Prevent scroll*/
+    position: relative;
+    /**/
+
+    background-color: black;
+
+    margin: 0;
+    display: flex;
+  
+    /* This centers our sketch horizontally. */
+    justify-content: center;
+  
+    /* This centers our sketch vertically. */
+    align-items: center;
+}
+
+#submit {
+  visibility: hidden;
+}
+
+form{
+  width:0px;
+}

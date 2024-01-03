@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+@font-face 
+{ 
+font-family: "Karmina";  
+src: url("/fonts/karmina-webfont.woff2")format("woff2"); 
+}
+
+body{
+    font-family: 'Ubuntu';
+    background-color: black;
+    color: white;
+    padding: 0px;
+    margin: 0;
+    text-align: center;
+}
+
+/* Preliminary Styling */
+
+.preliminary{
+    font-family: 'Karmina';
+    padding:0;
+    margin:5px;
+    font-weight: normal;
+}
+
+.title{
+    font-size: 80pt;
+}
+
+.capital{
+    font-size: 120pt;
+}
+
+.subtitle{
+    font-size: 26pt;
+}
+
+.intro{
+    margin-bottom: 36px;
+}
+
+/* Projects */
+
+.navbar{
+    margin: 16px;
+}
+
+.nav {
+    font-weight: normal;
+}
+
+.nav > a{
+    color:white;
+    text-decoration: none;
+}
+
+/* paragraphs and shit */
+
+.project{
+    border-color: white;
+    border: 2px;
+    width:fit-content;
+    margin:10px;
+    padding: 5px;
+
+    border-style: inset;
+}
+
+.progress{
+    color: yellow;
+}
+
+.update{
+    text-align: left;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #080808;
+    padding: 5px;
+}
+
+.about{
+    text-align: left;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.end{
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 100%;
+}

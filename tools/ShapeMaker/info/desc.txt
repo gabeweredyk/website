@@ -1,0 +1,2 @@
+<h2> Shape Maker </h2>
+<p> Using the same code as the Bezier Board, a program that helps convert polygons composed of Bezier curves into a set of points </p>

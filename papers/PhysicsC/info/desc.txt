@@ -1,0 +1,2 @@
+<h2> Physics C Notes </h2>
+<p> Prepare for the Physics C exam with notes about the additional topics covered in the calculus versions of the Physics APs </p> 
