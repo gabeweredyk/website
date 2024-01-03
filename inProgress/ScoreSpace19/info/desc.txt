@@ -1,2 +1,0 @@
-<h2>Physics Simulator</h2>
-<p>Why use the existing game engines out there if all your making is a small 2-D platformer? That was my motivation </p>

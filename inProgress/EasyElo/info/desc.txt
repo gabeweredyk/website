@@ -1,3 +1,0 @@
-<h4 class="progress">In Progress!</h4>
-<h2>Easy Elo</h2>
-<p>An easy way to set up a tournament system</p>

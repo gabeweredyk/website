@@ -1,3 +1,0 @@
-<h4 class="progress">In Progress!</h4>
-<h2>Whiteboard Library</h2>
-<p>A collection of pictures I have taken of my whiteboard</p>

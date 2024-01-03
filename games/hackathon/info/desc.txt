@@ -1,2 +1,0 @@
-<h2> Mock Hackathon </h2>
-<p> A practice OyoClass styled Hackathon </p>

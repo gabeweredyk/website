@@ -1,2 +1,0 @@
-<h2>3D Tic Tac Toe</h2>
-<p>A unique variant on the traditional paper game with a good enough twist to prevent a simple race to a stalemate</p>

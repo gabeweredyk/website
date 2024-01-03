@@ -1,3 +1,0 @@
-<h4 class="progress">In Progress!</h4>
-<h2>Spinning Wheel</h2>
-<p>A simple widget to randomly select an element</p>
